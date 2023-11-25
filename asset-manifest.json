@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LetMeCook/static/css/main.3c66ca50.css",
+    "main.js": "/LetMeCook/static/js/main.2222cdfe.js",
+    "index.html": "/LetMeCook/index.html",
+    "main.3c66ca50.css.map": "/LetMeCook/static/css/main.3c66ca50.css.map",
+    "main.2222cdfe.js.map": "/LetMeCook/static/js/main.2222cdfe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c66ca50.css",
+    "static/js/main.2222cdfe.js"
+  ]
+}
